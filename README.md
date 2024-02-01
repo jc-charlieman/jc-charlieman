@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jc-charlieman
+- 👋 Hi, I’m Jose Carlos
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Data Science for Oil & Gas Industry. 
 - 📫 How to reach me charlieking882@gmail.com
 
